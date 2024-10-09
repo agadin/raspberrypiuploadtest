@@ -19,3 +19,4 @@ Date: 10/8/2024 Time: 18:57:49, Count: 18, Pin: D4, Sensor Name: Sensor 2
 Date: 10/8/2024 Time: 18:58:22, Count: 19, Pin: D4, Sensor Name: Sensor 2
 Date: 10/8/2024 Time: 20:06:05, Count: 20, Pin: D4, Sensor Name: Sensor 2
 Date: 10/8/2024 Time: 20:06:15, Count: 21, Pin: D4, Sensor Name: Sensor 2
+Date: 10/09/2024 Time: 17:06:15, Count: 22, Pin: 6, Sensor Name: Sensor 2
