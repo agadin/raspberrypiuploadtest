@@ -16,3 +16,4 @@ Date: 10/09/2024 Time: 17:46:25, Count: 15, Pin: 19, Sensor Name: Sensor 4
 Date: 10/09/2024 Time: 17:46:32, Count: 16, Pin: 19, Sensor Name: Sensor 4
 Date: 10/09/2024 Time: 17:46:34, Count: 17, Pin: 19, Sensor Name: Sensor 4
 Date: 10/09/2024 Time: 18:42:36, Count: 18, Pin: 19, Sensor Name: Sensor 4
+Date: 10/09/2024 Time: 18:44:58, Count: 19, Pin: 19, Sensor Name: Sensor 4
