@@ -1,14 +1,14 @@
 {
-    "time_between_pushes_minutes": 60,
+    "time_between_pushes_minutes": 5,
     "sensor_names": {
-        "D3": "Sensor 1",
-        "D4": "Sensor 2",
-        "D5": "Sensor 3",
-        "D6": "Sensor 4",
-        "D7": "Sensor 5",
-        "D8": "Sensor 6",
-        "D9": "Sensor 7",
-        "D41": "Sensor 8"
+        "A": "Sensor 1",
+        "B": "Sensor 2",
+        "C": "Sensor 3",
+        "D": "Sensor 4",
+        "E": "Sensor 5",
+        "F": "Sensor 6",
+        "G": "Sensor 7",
+        "H": "Sensor 8"
     },
     "character_lcd": true,
     "uln2003_stepper": false
