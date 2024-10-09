@@ -1,5 +1,5 @@
 {
-    "time_between_pushes_minutes": 2,
+    "time_between_pushes_minutes": 5,
     "sensor_names": {
         "1": "Sensor 1",
         "2": "Sensor 2",
