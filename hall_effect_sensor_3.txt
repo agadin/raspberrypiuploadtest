@@ -1,1 +1,18 @@
+Count: 0, Date: 10/09/2024, Time: 13:46:53
+Count: 0, Date: 10/09/2024, Time: 13:51:54
+Count: 0, Date: 10/09/2024, Time: 13:56:55
+Count: 0, Date: 10/09/2024, Time: 14:06:09
+Count: 0, Date: 10/09/2024, Time: 14:11:10
+Count: 0, Date: 10/09/2024, Time: 14:16:11
+Count: 0, Date: 10/09/2024, Time: 14:21:11
+Count: 0, Date: 10/09/2024, Time: 14:26:12
+Count: 0, Date: 10/09/2024, Time: 14:31:13
+Count: 0, Date: 10/09/2024, Time: 14:36:13
+Count: 0, Date: 10/09/2024, Time: 14:41:14
+Count: 0, Date: 10/09/2024, Time: 14:46:14
+Count: 0, Date: 10/09/2024, Time: 14:51:15
+Count: 0, Date: 10/09/2024, Time: 14:56:15
+Count: 0, Date: 10/09/2024, Time: 15:01:15
+Count: 0, Date: 10/09/2024, Time: 15:06:18
 Count: 0, Date: 10/09/2024, Time: 15:11:17
+Date: 10/09/2024 Time: 16:11:23, Count: 1, Pin: D13, Sensor Name: Unknown Sensor
