@@ -1,18 +1,93 @@
-Count: 0, Date: 10/09/2024, Time: 13:46:53
-Count: 0, Date: 10/09/2024, Time: 13:51:54
-Count: 0, Date: 10/09/2024, Time: 13:56:55
-Count: 0, Date: 10/09/2024, Time: 14:06:09
-Count: 0, Date: 10/09/2024, Time: 14:11:10
-Count: 0, Date: 10/09/2024, Time: 14:16:11
-Count: 0, Date: 10/09/2024, Time: 14:21:11
-Count: 0, Date: 10/09/2024, Time: 14:26:12
-Count: 0, Date: 10/09/2024, Time: 14:31:13
-Count: 0, Date: 10/09/2024, Time: 14:36:13
-Count: 0, Date: 10/09/2024, Time: 14:41:14
-Count: 0, Date: 10/09/2024, Time: 14:46:14
-Count: 0, Date: 10/09/2024, Time: 14:51:15
-Count: 0, Date: 10/09/2024, Time: 14:56:15
-Count: 0, Date: 10/09/2024, Time: 15:01:15
-Count: 0, Date: 10/09/2024, Time: 15:06:18
-Count: 0, Date: 10/09/2024, Time: 15:11:17
-Date: 10/09/2024 Time: 16:11:23, Count: 1, Pin: D13, Sensor Name: Unknown Sensor
+Date: 10/8/2024 Time: 18:10:27, Count: 1, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 18:10:29, Count: 2, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 19:48:56, Count: 3, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:00:28, Count: 4, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:00:38, Count: 5, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:00:54, Count: 6, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:01:06, Count: 7, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:01:20, Count: 8, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:06:44, Count: 9, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:06:49, Count: 10, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:06:58, Count: 11, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:03, Count: 12, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:07, Count: 13, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:11, Count: 14, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:15, Count: 15, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:26, Count: 16, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:28, Count: 17, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:30, Count: 18, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:33, Count: 19, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:35, Count: 20, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:37, Count: 21, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:40, Count: 22, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:42, Count: 23, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:48, Count: 24, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:50, Count: 25, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:53, Count: 26, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:56, Count: 27, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:07:58, Count: 28, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:03, Count: 29, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:07, Count: 30, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:16, Count: 31, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:18, Count: 32, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:21, Count: 33, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:24, Count: 34, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:27, Count: 35, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:32, Count: 36, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:35, Count: 37, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:38, Count: 38, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:41, Count: 39, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:55, Count: 40, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:08:58, Count: 41, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:00, Count: 42, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:02, Count: 43, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:04, Count: 44, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:06, Count: 45, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:09, Count: 46, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:12, Count: 47, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:20, Count: 48, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:23, Count: 49, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:27, Count: 50, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:29, Count: 51, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:09:32, Count: 52, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:12:38, Count: 53, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:12:41, Count: 54, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:12:51, Count: 55, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:12:53, Count: 56, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:12:55, Count: 57, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:00, Count: 58, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:02, Count: 59, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:07, Count: 60, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:10, Count: 61, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:17, Count: 62, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:46, Count: 63, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:48, Count: 64, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:51, Count: 65, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:13:53, Count: 66, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:34, Count: 67, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:41, Count: 68, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:42, Count: 69, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:45, Count: 70, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:46, Count: 71, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:48, Count: 72, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:50, Count: 73, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:52, Count: 74, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:54, Count: 75, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:15:59, Count: 76, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:02, Count: 77, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:05, Count: 78, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:07, Count: 79, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:09, Count: 80, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:11, Count: 81, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:13, Count: 82, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:15, Count: 83, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:18, Count: 84, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:20, Count: 85, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:22, Count: 86, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:26, Count: 87, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:37, Count: 88, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:41, Count: 89, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:45, Count: 90, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:52, Count: 91, Pin: D5, Sensor Name: Sensor 3
+Date: 10/8/2024 Time: 20:16:56, Count: 92, Pin: D5, Sensor Name: Sensor 3
+Date: 10/9/2024 Time: 07:29:38, Count: 93, Pin: D5, Sensor Name: Sensor 3
