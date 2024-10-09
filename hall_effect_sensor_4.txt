@@ -8,3 +8,10 @@ Date: 10/09/2024 Time: 17:06:34, Count: 7, Pin: 19, Sensor Name: Sensor 4
 Date: 10/09/2024 Time: 17:09:48, Count: 8, Pin: 19, Sensor Name: Sensor 4
 Date: 10/09/2024 Time: 17:13:55, Count: 9, Pin: 19, Sensor Name: Sensor 4
 Date: 10/09/2024 Time: 17:27:32, Count: 10, Pin: 19, Sensor Name: Sensor 4
+Date: 10/09/2024 Time: 17:38:38, Count: 11, Pin: 19, Sensor Name: Sensor 4
+Date: 10/09/2024 Time: 17:39:42, Count: 12, Pin: 19, Sensor Name: Sensor 4
+Date: 10/09/2024 Time: 17:40:27, Count: 13, Pin: 19, Sensor Name: Sensor 4
+Date: 10/09/2024 Time: 17:41:19, Count: 14, Pin: 19, Sensor Name: Sensor 4
+Date: 10/09/2024 Time: 17:46:25, Count: 15, Pin: 19, Sensor Name: Sensor 4
+Date: 10/09/2024 Time: 17:46:32, Count: 16, Pin: 19, Sensor Name: Sensor 4
+Date: 10/09/2024 Time: 17:46:34, Count: 17, Pin: 19, Sensor Name: Sensor 4
